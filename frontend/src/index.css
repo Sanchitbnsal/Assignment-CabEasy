@@ -1,0 +1,7 @@
+.index-form {
+  border: 2px solid #000; /* Adds a border around the form */
+  padding: 20px;          /* Adds padding inside the form */
+  width: 300px;           /* Sets the width of the form */
+  margin: 20px auto;      /* Centers the form */
+  border-radius: 10px;    /* Optional: Rounds the corners */
+}
